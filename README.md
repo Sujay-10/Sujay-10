@@ -1,4 +1,4 @@
-(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdhbzFrY3hoZnpqZXJtazY0cmZneXdrZ2ZiZThwOG52eTR1OG43byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
+!(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdhbzFrY3hoZnpqZXJtazY0cmZneXdrZ2ZiZThwOG52eTR1OG43byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
 <h1 align="center"><strong>Hey! I'm Sujay, a Data Science Intern @ ChiStats 🚀</strong></h1><br>🔭 Currently working on innovative Gen AI projects that leverage advanced RAG implementations and apply LLMs to real-world challenges, with a focus on building impactful AI solutions in Assistive Technology.<br>🤝 Open to collaborating on innovative AI and NLP projects, particularly those driving practical, impactful applications.<br>🌱 Always learning – currently expanding my skills in AWS, and Spark to deepen my expertise in big data solutions.<br>🚀 Ask me about Python, Machine Learning, NLP, Generative AI, and Prompt Engineering – I’m passionate about pushing the boundaries of what AI can achieve.
 
 
