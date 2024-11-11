@@ -1,4 +1,4 @@
-
+![The-Different-Types-of-Technology-GIF](https://github.com/user-attachments/assets/2acc2449-3b13-4b5d-bc74-fba0a3fe27fc)
 <h1 align="center"><strong>Hey! I'm Sujay, a Data Science Intern @ ChiStats 🚀</strong></h1><br>🔭 Working on innovative Gen AI projects using advanced RAG and LLMs to build impactful AI solutions in Assistive Technology.<br><br>🤝 Open to collaborating on innovative AI and NLP projects, particularly those driving practical, impactful applications.<br><br>🌱 Always learning – currently expanding my skills in AWS, and Spark to deepen my expertise in big data solutions.<br><br>🚀 Ask me about Python, Machine Learning, NLP, Generative AI, and Prompt Engineering.
 
 
