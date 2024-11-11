@@ -1,4 +1,6 @@
-![d481f3c72e283309071f79e01b05c06d](https://github.com/user-attachments/assets/1c3f26fc-6966-45a8-b621-ab2e00eb3baf)
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/1c3f26fc-6966-45a8-b621-ab2e00eb3baf" alt="Image Description">
+</div>
 <h1 align="center"><strong>Hey! I'm Sujay, a Data Science Intern @ ChiStats 🚀</strong></h1><br>🔭 Working on innovative Gen AI projects using advanced RAG and LLMs to build impactful AI solutions in Assistive Technology.<br><br>🤝 Open to collaborating on innovative AI and NLP projects, particularly those driving practical, impactful applications.<br><br>🌱 Always learning – currently expanding my skills in AWS, and Spark to deepen my expertise in big data solutions.<br><br>🚀 Ask me about Python, Machine Learning, NLP, Generative AI, and Prompt Engineering.
 
 
